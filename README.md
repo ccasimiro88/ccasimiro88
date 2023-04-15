@@ -2,7 +2,7 @@
 
 - 🤖 My current research areas are large-scale language modelling, multilingual language understanding, and automatic question answering for low-resource languages.
 
-- ✨ I believe in cutting-edge NLP technologies that can positively impact society, such as NLP applications in health and education domains.
+- ✨ I believe in cutting-edge NLP technologies that can positively impact society and people, such as NLP applications in the health and education domains.
 
 <!---
 ccasimiro88/ccasimiro88 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
